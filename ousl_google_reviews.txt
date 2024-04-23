@@ -1,0 +1,318 @@
+{
+    "search_metadata": {
+        "id": "65e19c4f18ca86e0f0b0b4cb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/5896f41e834dcc61/65e19c4f18ca86e0f0b0b4cb.json",
+        "created_at": "2024-03-01 09:13:51 UTC",
+        "processed_at": "2024-03-01 09:13:51 UTC",
+        "google_maps_reviews_url": "https://www.google.com/async/reviewDialog?hl=en&async=feature_id:0x3ae2fc0237ed5d25:0x4c711f0161ac8139,sort_by:,next_page_token:,associated_topic:,_fmt:json",
+        "raw_html_file": "https://serpapi.com/searches/5896f41e834dcc61/65e19c4f18ca86e0f0b0b4cb.html",
+        "prettify_html_file": "https://serpapi.com/searches/5896f41e834dcc61/65e19c4f18ca86e0f0b0b4cb.prettify",
+        "total_time_taken": 2.63
+    },
+    "search_parameters": {
+        "engine": "google_maps_reviews",
+        "data_id": "0x3ae2fc0237ed5d25:0x4c711f0161ac8139",
+        "hl": "en"
+    },
+    "place_info": {
+        "title": "The Open University of Sri Lanka",
+        "address": "Nawala, Nugegoda, Sri Lanka",
+        "rating": 4.4,
+        "reviews": 811
+    },
+    "topics": [
+        {
+            "keyword": "distance learning",
+            "mentions": 24,
+            "id": "/m/02h32"
+        },
+        {
+            "keyword": "higher education",
+            "mentions": 21,
+            "id": "/m/03r55"
+        },
+        {
+            "keyword": "environment",
+            "mentions": 12,
+            "id": "/m/02py09"
+        },
+        {
+            "keyword": "diploma",
+            "mentions": 10,
+            "id": "/m/01ysy9"
+        },
+        {
+            "keyword": "call",
+            "mentions": 9,
+            "id": "/m/024j49"
+        },
+        {
+            "keyword": "information",
+            "mentions": 8,
+            "id": "/m/03y39"
+        },
+        {
+            "keyword": "government",
+            "mentions": 7,
+            "id": "/m/036nz"
+        },
+        {
+            "keyword": "postgraduate",
+            "mentions": 6,
+            "id": "/m/0143fl"
+        },
+        {
+            "keyword": "academic",
+            "mentions": 5,
+            "id": "/m/0134hp"
+        },
+        {
+            "keyword": "engineering",
+            "mentions": 5,
+            "id": "/m/02ky346"
+        }
+    ],
+    "reviews": [
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNKX002c0l3EAE!2m1!1s0x0:0x4c711f0161ac8139!3m1!1s2@1:CIHM0ogKEICAgICJ_M6sIw%7CCgwI4JvVpAYQ6Lbx2gI%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "8 months ago",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipOdqhU_d1jY-dnGLkOIPLSTp82uwLEr6OpwZAck=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipP2n2fKRPkPMh83brA-lBAl2gjWYD0XEp8q4wNV=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipM1lqVcEF03KtCoQkgZyeA3083M19eXDSTgKn5u=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOkWn9VbKEAX0zv-gEw2q0QLaQUab_dnElZ7wat=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPMmGgVCUEGrF9z1EyqtS23SSrIuMGDTMqc9-is=w100-h100-p-n-k-no"
+            ],
+            "source": "Google",
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKX002c0l3EAE",
+            "user": {
+                "name": "Mihiranga Fernando",
+                "link": "https://www.google.com/maps/contrib/100593286411420408849?hl=en-US",
+                "contributor_id": "100593286411420408849",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXEaKdwULufJlEbU1jenhEr6oNZR5oHlFcYdHFdGA3zrck=s40-c-rp-mo-ba3-br100",
+                "local_guide": true,
+                "reviews": 14,
+                "photos": 57
+            },
+            "snippet": "This esteemed institution stands as the sole public university in Sri Lanka, embracing individuals from all walks of life who harbor a thirst for knowledge. Here, the gateway to a government degree swings open wide, welcoming aspiring minds to embark on their journey of higher education. Within its halls, an exceptional cadre of lecturers graces the academic landscape, offering their expertise and guidance to propel students toward their intellectual aspirations.\n\nDiversity flourishes within this university's walls, with disciplines spanning the realms of Science, Health, Engineering, IT, and Management. Aspiring scholars can choose their path, nurturing their passion in their chosen field under the tutelage of experienced faculty members.\n\nNestled amidst a breathtaking environment, this university boasts a scenic backdrop that inspires both awe and tranquility. Regional centers peppered across the country extend the reach of education, ensuring accessibility to knowledge for all. From lush green campuses to idyllic settings, the surroundings mirror the beauty of the intellectual journey that unfolds within.\n\nFor those eager to unlock the doors to higher education, I wholeheartedly recommend this prestigious university. It stands as a beacon of opportunity, empowering individuals to realize their academic dreams while basking in the splendor of a supportive and intellectually stimulating community.",
+            "likes": 3
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSb3RiN0VnEAE!2m1!1s0x0:0x4c711f0161ac8139!3m1!1s2@1:CIHM0ogKEICAgICRotb7Eg%7CCgwIpZWMoQYQqJvK8QI%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "11 months ago",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipNqxNoJFMi7uHmlLI3uvrRREozejxu3PHJnmHkU=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipN-ExRhZtZbR8hkxeIUs3ARPddeAGATkEHlGf2p=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipP-cGv3SRMnQvb8TmGjA38LqI9L05NczSgSq50Z=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNNBO3nu2IfcqwSHblyjy7vKOexMfTlOa9DGdic=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPU8WOceJXm_DMZn7k2_6iHYrvljpfQygRTKsQL=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOcKLU2sW_DMIb3UkjHFdln7OdpIXKKFEJvXrpE=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPVN7_PPdaa0BZWac7dW9TU9vMMPyHdEFKlABrp=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipORuGOnmG9dboHjDesNXI1q4Yr5Ie-5_x7vMvQw=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNw0Hz10GW2QQ0ikysHBgo57RwnJE-ZWZJhSINO=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOWDg-ygaZVGIZ7Z4CN32K1f_SgJm7REeHwzNG7=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipP2i26-tsHpiRdkDSVPkG0BzOUEeZ1PbizNKHEY=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNOGjW6JMuDDsn8LdvG9mXY08JaH2aJ5lZQHREq=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNk-a5HVNWGyqHDBTI8JDULbwIqZg-b0gxWCxW7=w100-h100-p-n-k-no"
+            ],
+            "source": "Google",
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSb3RiN0VnEAE",
+            "user": {
+                "name": "Tharindu Chinthaka",
+                "link": "https://www.google.com/maps/contrib/101832692430825888144?hl=en-US",
+                "contributor_id": "101832692430825888144",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUCWjizsaqDLoQOS1JDnMwFdCZbwd3pFh-5HwS00eegIg=s40-c-rp-mo-ba3-br100",
+                "local_guide": true,
+                "reviews": 13,
+                "photos": 76
+            },
+            "snippet": "Great place for higher education to success the future of students. Calm surround in colombo area for relaxing minds with practical higher education.\n\nYou can see a crocodile in nawala canal with attached video."
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUN4MF9YX293RRAB!2m1!1s0x0:0x4c711f0161ac8139!3m1!1s2@1:CIHM0ogKEICAgICx0_X_owE%7CCgwIiLG9owYQ0IzTtQE%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "9 months ago",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipPTKYpmfFlBKqIxTlqRWF9fhsigpg405OcberVr=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPFqo5642FUhjHm19As3vs56H5zltKQlD7K2Avm=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNmouxco8lwyAb8JNEUv_n5m7n7c6JGY37VzNBr=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNJkYlpIfIam_L9luRGWPgm7Wo98hgLXgydAwUG=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMh-uO2HmRC4vgBUB7JRfOYb96VSmpTNsFXJmsa=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOQJYHW7OunCrSoGIJU_LPAbrELe9DFjgAtjjQq=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOGZzz4oK_nJWKvdkoiWe0ZoHzEsn2E1uUR-1Oq=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOtPiv6dwLERuc5NZ6egvo10QctBQqZ4H3N5oRC=w100-h100-p-n-k-no"
+            ],
+            "source": "Google",
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4MF9YX293RRAB",
+            "user": {
+                "name": "Abishek Rathnakumar (AK)",
+                "link": "https://www.google.com/maps/contrib/102583954398450475258?hl=en-US",
+                "contributor_id": "102583954398450475258",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjURp5LYupu-a_4a1flgdXQWQlz2lvvw_B51XlP3OOue4Hw=s40-c-rp-mo-ba3-br100",
+                "local_guide": true,
+                "reviews": 23,
+                "photos": 31
+            },
+            "snippet": "One of the best state universities in Sri Lanka, Happy to be a part of this.\nPic credits - Ishara",
+            "likes": 1
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUMxeXJYcndnRRAB!2m1!1s0x0:0x4c711f0161ac8139!3m1!1s2@1:CIHM0ogKEICAgIC1yrXrwgE%7CCgwIm8iwrAYQ8Pi8wgE%7C?hl=en-US",
+            "rating": 4.0,
+            "date": "2 months ago",
+            "source": "Google",
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxeXJYcndnRRAB",
+            "user": {
+                "name": "Minhaj Nazeer",
+                "link": "https://www.google.com/maps/contrib/103733202696902702293?hl=en-US",
+                "contributor_id": "103733202696902702293",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXUxOdMIrlzSrOQpHC-i-f5fzfz7VK8rqUz64N41IVLghM=s40-c-rp-mo-br100",
+                "reviews": 3
+            },
+            "snippet": "The Open University of Sri Lanka provides accessible higher education opportunities. Established in 1980, it pioneers distance learning, enabling students to study without traditional campus attendance. OUSL offers a diverse range of undergraduate and postgraduate programs, fostering flexibility for working professionals and those with other commitments.\n\nWith a commitment to inclusive education, OUSL reaches students across Sri Lanka, promoting lifelong learning. Its innovative approach integrates technology, facilitating remote access to lectures and resources. The university prioritizes student support, ensuring a conducive learning environment.\n\nEmphasizing open entry, OUSL welcomes students from various backgrounds, contributing to educational equity. Accredited programs maintain high academic standards, empowering graduates for diverse careers.\n\nOUSL's impact extends beyond academia, fostering societal development through accessible education. Its legacy reflects a dedication to breaking barriers and shaping a knowledgeable, skilled society in Sri Lanka."
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNSLTgtdk5REAE!2m1!1s0x0:0x4c711f0161ac8139!3m1!1s2@1:CIHM0ogKEICAgICR-8-vNQ%7CCgwIy9rXoQYQiOndpwI%7C?hl=en-US",
+            "rating": 3.0,
+            "date": "10 months ago",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipOBziK0eTiW7W98RjvKacj42h_d-pd_dJWk0MSa=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMUSmyow3j95ZEGmJzZz3DKp7f1Jz4SVvYwWBLQ=w100-h100-p-n-k-no"
+            ],
+            "source": "Google",
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSLTgtdk5REAE",
+            "user": {
+                "name": "Yoshitha Jayamaha",
+                "link": "https://www.google.com/maps/contrib/106562136288422961141?hl=en-US",
+                "contributor_id": "106562136288422961141",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVRK1n6FWm54JFghN-zrdBe7UFXKIGUQLw-w-mbdLN0BoY=s40-c-rp-mo-ba6-br100",
+                "local_guide": true,
+                "reviews": 87,
+                "photos": 2644
+            },
+            "snippet": "The Open University of Sri Lanka (OUSL) offers high-quality distance education with flexible learning options. The diverse course offerings, experienced faculty, and affordable fees make it an excellent choice for anyone pursuing higher education."
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURXbVBtQ0J3EAE!2m1!1s0x0:0x4c711f0161ac8139!3m1!1s2@1:CIHM0ogKEICAgIDWmPmCBw%7CCgwI26O9kQYQoIGPnwM%7C?hl=en-US",
+            "rating": 1.0,
+            "date": "a year ago",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipO9cU5AntDKcWQKoTGYjj1c5B824xUHpLo6sOIe=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPkYUGEZqOy-zunPBjrPG1UMhatswH1N4DCFoan=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipO-fPCA7aeKG6NKFiwhYLFK8wwrRFr1IZNXye1S=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPWFmPNJ_IiN5jjnQRrhnpLFP7tcOM_gBglD-eC=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMTJSy7mWX_IX-Roa-POWx8mZu2tWfMO0sJ-5pq=w100-h100-p-n-k-no"
+            ],
+            "source": "Google",
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXbVBtQ0J3EAE",
+            "user": {
+                "name": "K. Maran",
+                "link": "https://www.google.com/maps/contrib/117516399837927463654?hl=en-US",
+                "contributor_id": "117516399837927463654",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjXqnrxOY2i6ytQxwgBVAiyCDEPbiuDeu33cWa6djZktLg8=s40-c-rp-mo-ba3-br100",
+                "local_guide": true,
+                "reviews": 10,
+                "photos": 136
+            },
+            "snippet": "This is one of the great places for your higher education. They provide all kind of courses. The environment and infrastructure is really awesome . Here you enjoy with the nature. Awesome library and lecture rooms.",
+            "likes": 2
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHNF9HbjRnRRAB!2m1!1s0x0:0x4c711f0161ac8139!3m1!1s2@1:CIHM0ogKEICAgIDG4_Gn4gE%7CCgwI0u_BjQYQsM3G_wI%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "2 years ago",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipMSoiFeXadC-Q10AbeSk8JqjDSp0kcwoArIDvK-=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMH_3IfpJNDzTgOBulsmNwKljo_7IagQK9e79lz=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPKtyETNF91c1vZgb--Jp1XKUMN7Ok9LMGvV9Ou=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOATV636Hempio2ppczN5gFS_tGYz4iBlYlyPMX=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPgBghiC-ilFq-_oRDoI2UFN2yA0S7W9P6EaQar=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNlNT8_zRi1NFLW0-Mak7K6DvWrgiWfGpFRVff6=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipNelS2yZYrvzNqAj0d001QmsNj7RfuUgiRISHvm=w100-h100-p-n-k-no"
+            ],
+            "source": "Google",
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHNF9HbjRnRRAB",
+            "user": {
+                "name": "Suram Mendis",
+                "link": "https://www.google.com/maps/contrib/111546021411998428768?hl=en-US",
+                "contributor_id": "111546021411998428768",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVjl0MvirTdbKZh7kyh-QtK_ISFTKqr089E7AQO6yAgZss=s40-c-rp-mo-ba6-br100",
+                "local_guide": true,
+                "reviews": 329,
+                "photos": 1928
+            },
+            "snippet": "Higher education institute which provides Bachelors and post graduate degrees for affordable rates.",
+            "likes": 2
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNLczk2dDFBRRAB!2m1!1s0x0:0x4c711f0161ac8139!3m1!1s2@1:CIHM0ogKEICAgICKs96t1AE%7CCgwItOjugwYQiOjB6wE%7C?hl=en-US",
+            "rating": 4.0,
+            "date": "2 years ago",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipNeNetLPYDMBvS_IVZxBfjNH0isdRuw5rEEh9o5=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPU1j3uoCuf7ATJzNm241wG04k3eh2T1BtkIRDY=w100-h100-p-n-k-no"
+            ],
+            "source": "Google",
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLczk2dDFBRRAB",
+            "user": {
+                "name": "A S M Siyath",
+                "link": "https://www.google.com/maps/contrib/105960512021986394319?hl=en-US",
+                "contributor_id": "105960512021986394319",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjUE4UQbyAqu8Jr9ZDggoF_3PTtku2DdNlcgwa-S81pwH_b9=s40-c-rp-mo-ba4-br100",
+                "local_guide": true,
+                "reviews": 21,
+                "photos": 414
+            },
+            "snippet": "\"The Open University of Sri Lanka\" (OUSL) (Sinhala:\u00a0\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dc0\u0dd2\u0dc0\u0dd8\u0dad \u0dc0\u0dd2\u0dc1\u0dca\u0dc0 \u0dc0\u0dd2\u0daf\u0dca\u200d\u0dba\u0dcf\u0dbd\u0dba,\u00a0Tamil:\u00a0\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0ba4\u0bbf\u0bb1\u0ba8\u0bcd\u0ba4 \u0baa\u0bb2\u0bcd\u0b95\u0bb2\u0bc8\u0b95\u0bcd\u0b95\u0bb4\u0b95\u0bae\u0bcd) is a national university in\u00a0Sri Lanka. It is unique within the Sri Lankan national university system for being the only university to offer programs of study leading to Certificate, Diploma, Degrees and Postgraduate degrees up to PhD level through the Open and Distance Mode of Learning(ODL). The degrees awarded by the university are treated as equivalent to degrees awarded by any other Sri Lankan University under the preview of the\u00a0University Grants Commission.\n\nThe OUSL Main Campus ( C010 ) is located in Colombo in\u00a0Nawala,\u00a0Nugegoda. There are 8 regional centers in addition to main campus at Nawala. They are;\n\nKandy Regional Center ( K030 ) \u2013\u00a0Polgolla,\u00a0Kandy\n\nMatara Regional Center ( M050 ) \u2013 Nupe,\u00a0Matara\n\nJaffna Regional Center ( J060 ) \u2013\u00a0Kokuvil,\u00a0Jaffna\n\nAnuradhapura Regional Center ( K110 ) \u2013 Jayanthi Mawatha,\u00a0Anuradhapura\n\nBatticaloa Regional Center ( K070 ) \u2013 23, New Road,\u00a0Batticaloa\n\nBadulla Regional Center \u2013 No 18/1, Bandaranayake Mw,\u00a0Badulla\n\nKurunegala Regional Center ( K090 ) \u2013 Negombo Road, Malkaduwawa,\u00a0Kurunegala\n\nRatnapura Regional Center ( C130 ) \u2013 Hidellana,\u00a0Ratnapura\n\nThe Open University of Sri Lanka is currently ranked as No.9 among Sri Lankan Universities and No. 6353 among international Universities.",
+            "likes": 1
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNGbGRQVHJRRRAB!2m1!1s0x0:0x4c711f0161ac8139!3m1!1s2@1:CIHM0ogKEICAgICFldPTrQE%7CCgwI8IP-qQYQ-O2elAM%7C?hl=en-US",
+            "rating": 4.0,
+            "date": "4 months ago",
+            "source": "Google",
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGbGRQVHJRRRAB",
+            "user": {
+                "name": "Sedu Sri",
+                "link": "https://www.google.com/maps/contrib/107950529083272802122?hl=en-US",
+                "contributor_id": "107950529083272802122",
+                "thumbnail": "https://lh3.googleusercontent.com/a/ACg8ocK2V6gzkGRbht_FvN1MYGFlCkjPBh_tvlvcEAab1Q_R=s40-c-rp-mo-br100",
+                "reviews": 1
+            },
+            "snippet": "When anyone have to go to the Open University Of SriLanka, Nawala...  from Kandy. You can follow these steps...\nIf You are going by train...\n1) Get down at Maradhana Station.\n2) take No \"176\" hettiyawatgtha bus.\nSo you can get down infront of the Campus."
+        },
+        {
+            "link": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURtaGRQSVRBEAE!2m1!1s0x0:0x4c711f0161ac8139!3m1!1s2@1:CIHM0ogKEICAgIDmhdPITA%7CCgwIkqLvjwYQyJr7gAM%7C?hl=en-US",
+            "rating": 5.0,
+            "date": "2 years ago",
+            "images": [
+                "https://lh5.googleusercontent.com/p/AF1QipN1hN1iafxG8HqsO1oFWRmcBia6YJA_clZCA2AN=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipN6KBDPl2QCITTbXYenzvgNbd0ysy5iy4eMjgjg=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipMVIowR_Ra4-KwljI_JZh5IyL65kXoeKqd5lnV5=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOdnhApdYgTop5VRLolibsWzzS7mt1e3zHof0t7=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipPmtW5Cjghtn9Yyo06sJ8TFnnv5q9n9owHzjvx3=w100-h100-p-n-k-no",
+                "https://lh5.googleusercontent.com/p/AF1QipOJbUs3Lv4L6KZrPDofPSzUM1pcYAP5NBqSnQ1B=w100-h100-p-n-k-no"
+            ],
+            "source": "Google",
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtaGRQSVRBEAE",
+            "user": {
+                "name": "Mohamed Sabri Isma Lebbe",
+                "link": "https://www.google.com/maps/contrib/117557392228091157031?hl=en-US",
+                "contributor_id": "117557392228091157031",
+                "thumbnail": "https://lh3.googleusercontent.com/a-/ALV-UjVE83iUYlN6MpvlGl9uTNchfa4MM790YNzJ7b-nwIiZaP7v=s40-c-rp-mo-ba5-br100",
+                "local_guide": true,
+                "reviews": 16,
+                "photos": 198
+            },
+            "snippet": "The Open University of Sri Lanka\" is a national university in Sri Lanka. It is unique within the Sri Lankan national university system for being the only university to offer programs of study leading to PhD from Foundation\n\nOpen universities are institutions offering degrees with low or no entry requirements. They are the ideal study options for students who have graduated their previous studies with low grades but want to continue their higher education.\n\nThe Open University of Sri Lanka (OUSL) which was established under the Universities Act No. 16 of 1978 and the OUSL Ordinance No. 03 of 1980 is a national university which has the unique mandate to promote the concepts of lifelong learning and university education for all.\n\nUndergraduates courses\n\nEnglish Language Teaching\nLibrary & Information\nSocial Sciences\nManagement\nLaw\nNursing\nMedical Laboratory Science\nPharmacy\nPsychology\nSoftware Engineering\nTechnology \u2013 Engineering  \u2013 Civil / Electrical / Electronics & Communication / Computer / Mechanical / Mechatronics / Textile & Clothing\nIndustrial Studies \u2013 Agriculture  /  Apparel Production and Management  / Fashion Design and Product Development  /  Textile Manufacture\nSpecial Needs\nDrama & Theater\nNatural Science- Education\nBachelor of Sciences\nBachelor of Arts in Youth and Community Development\nBEd Primary Education\n\nPostgraduates Courses\nDevelopment Policy\nLaw\nMaster of Science in Nursing\nBusiness Administration\nHuman Resources Management\nTechnology- Apparel Production\nConstruction Management\nEntomology & Parasitology\nEnvironmental Science\nTeacher Education\nMaster of Education\nPost Graduate Diploma in Education\nSpecial Needs\nM.Phil\u2019s & PhD\u2019s",
+            "likes": 6
+        }
+    ],
+    "serpapi_pagination": {
+        "next": "https://serpapi.com/search.json?data_id=0x3ae2fc0237ed5d25%3A0x4c711f0161ac8139&engine=google_maps_reviews&hl=en&next_page_token=CAESBkVnSUlDZw%3D%3D",
+        "next_page_token": "CAESBkVnSUlDZw=="
+    }
+}
